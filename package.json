@@ -17,7 +17,7 @@
   ],
   "dependencies": {
     "async": "0.1.x",
-    "colors": "0.x.x",
+    "colors": "https://github.com/Marak/colors.js/tarball/master",
     "cycle": "1.0.x",
     "eyes": "0.1.x",
     "pkginfo": "0.2.x",
